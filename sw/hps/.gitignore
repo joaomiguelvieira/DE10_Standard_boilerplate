@@ -1,3 +1,3 @@
-preloader/*
-linux/source/*
-u-boot/*
+preloader/
+linux/source/
+u-boot/
